@@ -14,7 +14,7 @@ I enjoy building complete embedded architectures.
 ## Core Expertise
 
 - Bare-metal firmware development
-- RTOS based embedded systems
+- RTOS-based embedded systems
 - Low-level driver development
 - Embedded Linux systems
 - Hardware bring-up and debugging
@@ -25,19 +25,21 @@ I enjoy building complete embedded architectures.
 
 ## Selected Projects
 
-### STM32 Bare-Metal Graphics Engine (in progress)
+### STM32F429I Discovery Bare-Metal Labs
 
-Developing a graphics system from scratch on the **STM32F429 Discovery** board.
+Repository:  
+https://github.com/schermaiolo/stm32f429i_discovery_bare_metal_labs
+
+Bare-metal experiments on the **STM32F429I Discovery** board focused on low-level platform understanding and peripheral control.
 
 Features:
 
-- register-level peripheral drivers
-- SPI LCD driver
-- sprite animation engine
-- asset generation pipeline
-- manifest-based sprite loader
+- startup code and low-level initialization
+- GPIO, interrupt, and peripheral handling
+- SPI communication experiments
+- LCD/display-oriented embedded labs
+- minimal project structure for hardware-level debugging and learning
 
-Future goal: turning the board into a **mini embedded oscilloscope**.
 
 ---
 
@@ -56,18 +58,6 @@ Features:
 
 ---
 
-### Embedded Networking Experiments
-
-Work and experiments involving embedded Ethernet and industrial communication systems.
-
-Topics explored include:
-
-- real-time communication systems
-- embedded protocol implementations
-- debugging complex networked embedded systems
-
----
-
 ## Technology Stack
 
 ### Languages
@@ -80,7 +70,7 @@ C#
 STM32  
 Raspberry Pi Pico  
 ESP32-C3 (RISC-V)  
-Jetson Nano  
+Jetson Platforms  
 
 ### Systems
 Bare-metal firmware  
@@ -103,7 +93,9 @@ Docker
 
 ## Current Work
 
-- STM32 bare-metal graphics engine into experimental embedded oscilloscope
+- STM32 bare-metal graphics engine into an experimental embedded oscilloscope
+- low-level STM32F429I Discovery bare-metal labs
+- embedded networking and real-time communication experiments
 
 ---
 

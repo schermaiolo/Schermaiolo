@@ -51,5 +51,6 @@ Outside work, I enjoy experimenting with development boards, repurposing old har
 ## Find Me Online
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Fridman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fridmandaniel)
+
 [![Open VSX](https://img.shields.io/badge/Open%20VSX-Touhou%20Fumo%20Companion-C160EF?style=for-the-badge&logo=eclipseide&logoColor=white)](https://open-vsx.org/extension/schermaiolo/touhou-fumo-companion)
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Touhou%20Fumo%20Companion-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=schermaiolo.touhou-fumo-companion)
